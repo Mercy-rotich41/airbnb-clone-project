@@ -39,5 +39,58 @@ Secure checkout process
 User authentication
 
 
+
 D. Importance of User-Friendly Design:
 A well-designed booking system ensures ease of use, reduces friction during user interaction, and improves conversion rates. Features like clear navigation, consistent UI, and fast responsiveness help users trust the platform and complete bookings with confidence.
+
+
+
+
+
+
+More UI/UX Design Planning
+✅ Design Properties from Figma
+Color Styles:
+
+Primary: #FF5A5F
+
+Secondary: #008489
+
+Background: #FFFFFF
+
+Text: #222222
+
+Secondary Text: #717171
+
+Typography:
+
+Primary Font: Circular
+
+Font Weight: Medium (500)
+
+Font Size: 16px
+
+Headings:
+
+Font Weight: Bold (700)
+
+Font Size: 24px–32px
+
+Secondary Text:
+
+Font Weight: Book (400)
+
+Font Size: 14px
+
+Why Design Properties Matter
+Identifying the design properties (like colors, fonts, and spacing) of a mockup ensures consistency and clarity across all UI components. This leads to:
+
+A unified look and feel throughout the application.
+
+Easier collaboration between designers and developers.
+
+Better user experience through consistent visual hierarchy and accessibility.
+
+Faster development time as reusable styles are defined early.
+
+
