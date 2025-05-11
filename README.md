@@ -94,3 +94,68 @@ Better user experience through consistent visual hierarchy and accessibility.
 Faster development time as reusable styles are defined early.
 
 
+Project Roles and Responsibilities
+Project Manager
+
+Oversees the project timeline and ensures milestones are met.
+
+Coordinates tasks and communication among team members.
+
+Ensures the team stays aligned with the project goals and deadlines.
+
+Frontend Developers
+
+Build and maintain the user interface using technologies like React.
+
+Implement responsive layouts and reusable UI components.
+
+Ensure a smooth and accessible user experience.
+
+Backend Developers
+
+Develop server-side logic and APIs to power the application.
+
+Manage the database and implement business logic.
+
+Handle user authentication, data processing, and security measures.
+
+Designers
+
+Create wireframes and high-fidelity mockups using Figma.
+
+Define color schemes, typography, and maintain design consistency.
+
+Focus on enhancing user experience and visual appeal.
+
+QA/Testers
+
+Write and run test cases to verify application functionality.
+
+Perform both unit and integration testing.
+
+Identify and report bugs to ensure a high-quality product.
+
+DevOps Engineers
+
+Set up deployment pipelines and manage cloud infrastructure.
+
+Automate builds, testing, and deployment using CI/CD practices.
+
+Monitor application performance and ensure uptime.
+
+Product Owner
+
+Defines the product vision and communicates requirements.
+
+Prioritizes features based on business needs and user feedback.
+
+Represents the interests of stakeholders throughout the project.
+
+Scrum Master
+
+Facilitates agile ceremonies like daily standups and sprint planning.
+
+Removes roadblocks to help the team work efficiently.
+
+Promotes collaboration and continuous improvement within the team.
+
