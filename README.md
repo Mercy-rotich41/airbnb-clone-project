@@ -15,3 +15,29 @@ Collaborate in a structured team environment with clearly defined roles.
 Design: Figma (for UI/UX mockups)
 
 Version Control: Git & GitHub
+
+
+UI/UX Design Planning
+A. Design Goals:
+
+Create intuitive booking flow
+
+Maintain visual consistency
+
+Ensure fast loading times
+
+Prioritize mobile responsiveness
+
+B. Key Features:
+
+Property search and filtering
+
+Detailed property viewing
+
+Secure checkout process
+
+User authentication
+
+
+D. Importance of User-Friendly Design:
+A well-designed booking system ensures ease of use, reduces friction during user interaction, and improves conversion rates. Features like clear navigation, consistent UI, and fast responsiveness help users trust the platform and complete bookings with confidence.
