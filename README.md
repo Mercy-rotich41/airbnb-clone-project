@@ -155,6 +155,35 @@ Scrum Master
 
 Facilitates agile ceremonies like daily standups and sprint planning.
 
+
+ UI Component Patterns
+To ensure consistency, reusability, and modularity in our frontend architecture, we have planned the following UI components for the Airbnb Clone project:
+
+Navbar
+
+Contains the logo, search bar, and user navigation options.
+
+Includes a responsive menu for smaller screens.
+
+Remains consistent across all pages to ensure easy navigation.
+
+Property Card
+
+Displays an image of the property, title, location, price, and user rating.
+
+Includes a favorite button for users to save properties they like.
+
+Designed with responsiveness in mind for both desktop and mobile views.
+
+Footer
+
+Displays useful links such as "About," "Contact," and "Help."
+
+Contains social media icons and copyright information.
+
+Maintains a clean layout and is consistent across all pages.
+
+These components will be built with reusability and responsiveness as top priorities, ensuring they adapt well across different devices and screen sizes.
 Removes roadblocks to help the team work efficiently.
 
 Promotes collaboration and continuous improvement within the team.
